@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  width: 50vw;
+  height: 20%;
+  background-color: antiquewhite;
+  border-radius: 10px;
+  border: 1px dashed red;
+}
+
+.members {
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 20vw;
+  height: 20%;
+  border-radius: 20px;
+  border: 1px dashed rgba(69, 199, 69, 0.397);
+  background-color: rgb(171, 224, 91);
+  margin: 20px;
+}
+
+ul {
+  list-style-type: none;
+}

@@ -1,0 +1,4 @@
+1. using 'mkdir -p' generate file structure 
+2. using 'pip3' command install flask
+3. Search into google how to initialise a flask app for basic routing
+4. Copy and Paste
